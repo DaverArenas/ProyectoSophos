@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Welcome to Best Bank';
-  mensaje: String = "We make your Dreams Come True";
-  Developer: String = "Develop by Daverson Arenas"
+  mensaje: String = "We Make your Dreams Come True";
+  Developer: String = "Develop by Daverson Arenas";
 
 
 
