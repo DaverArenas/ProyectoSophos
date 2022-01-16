@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Welcome to Best Bank';
-  mensaje: String = "We Make your Dreams Come True";
+  title = 'Welcome to Sophos Bank';
+  mensaje: String = "Where Your Dreams Come True";
   Developer: String = "Develop by Daverson Arenas";
 
 
